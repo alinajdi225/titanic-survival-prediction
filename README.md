@@ -156,17 +156,13 @@ The difference between local validation accuracy and the public leaderboard scor
 titanic-survival-prediction/
 ├── data/
 │   ├── raw/
-│   └── processed/
 ├── notebooks/
 │   ├── 01_exploratory_data_analysis.ipynb
 │   ├── 02_data_preprocessing.ipynb
 │   ├── 03_model_training.ipynb
 │   ├── 04_hyperparameter_tuning.ipynb
 │   └── 05_final_predictions.ipynb
-├── src/
-├── models/
 ├── outputs/
-│   ├── figures/
 │   └── submission.csv
 ├── requirements.txt
 ├── .gitignore
